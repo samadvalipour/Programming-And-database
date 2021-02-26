@@ -1,0 +1,20 @@
+F:\Tour\bin\Debug\Tour.exe.config
+F:\Tour\bin\Debug\Tour.exe
+F:\Tour\bin\Debug\Tour.pdb
+F:\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+F:\Tour\obj\Debug\Tour.Form1.resources
+F:\Tour\obj\Debug\Tour.Properties.Resources.resources
+F:\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+F:\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+F:\Tour\obj\Debug\Tour.exe
+F:\Tour\obj\Debug\Tour.pdb
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\bin\Debug\Tour.exe.config
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\bin\Debug\Tour.exe
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\bin\Debug\Tour.pdb
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\obj\Debug\Tour.csprojAssemblyReference.cache
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\obj\Debug\Tour.Form1.resources
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\obj\Debug\Tour.Properties.Resources.resources
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\obj\Debug\Tour.csproj.GenerateResource.cache
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\obj\Debug\Tour.csproj.CoreCompileInputs.cache
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\obj\Debug\Tour.exe
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W4\Tour\obj\Debug\Tour.pdb

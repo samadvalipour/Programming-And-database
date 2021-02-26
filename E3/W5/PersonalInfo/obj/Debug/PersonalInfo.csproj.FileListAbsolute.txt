@@ -1,0 +1,10 @@
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\bin\Debug\PersonalInfo.exe.config
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\bin\Debug\PersonalInfo.exe
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\bin\Debug\PersonalInfo.pdb
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\obj\Debug\PersonalInfo.Form1.resources
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\obj\Debug\PersonalInfo.Properties.Resources.resources
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\obj\Debug\PersonalInfo.csproj.GenerateResource.cache
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\obj\Debug\PersonalInfo.csproj.CoreCompileInputs.cache
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\obj\Debug\PersonalInfo.exe
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\obj\Debug\PersonalInfo.pdb
+F:\فنی و حرفه ای\11\توسعه و پایگاه\projects\Programming-And-database\E3\W5\PersonalInfo\obj\Debug\PersonalInfo.csprojAssemblyReference.cache
